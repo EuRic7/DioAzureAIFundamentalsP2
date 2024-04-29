@@ -2,7 +2,7 @@
 
 - Utiliza-se o Copilot e Azure OpenAI para gerar vários tipos de conteúdo. incluindo, textos, imagens, código fonte para um web site, etc. Sendo assim, solicitei a criação de algumas imagens para testar sua criatividade de acordo com o que é solicitado.
 
-- Analisamos os resultados gerados e discutimos sua qualidade, relevância e criatividade.
+- Os resultados gerados foram surpreendentes! Qualidade e criatividade profissionais, com detalhes incríveis.
 
 Insights
 Durante este projeto, foi possível compreender e refletir de forma um pouco mais técnica a respeito da IA generativa e também obter ideias para utilizar
